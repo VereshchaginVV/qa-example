@@ -1,0 +1,26 @@
+---
+- summary: |
+    Поиск не работает по всему каталогу товаров.
+  environment: |
+    Google Chrome	115.0.5790.171 (Официальная сборка) (64 бит)
+    ОС Windows 10 Pro   22H2;  Сборка ОС  19045.2006
+  steps-to-reproduce: |
+    1. Запускаем страницу магазина
+    2. В окно поиска вводим название товара Mornadi Velvet Bed    
+  expected-result: |
+    Товар найден
+  actual-result: |
+    Товар не найден
+
+- summary: |
+    Поиск не работает по всему каталогу товаров.
+  environment: |
+    Google Chrome	115.0.5790.171 (Официальная сборка) (64 бит)
+    ОС Windows 10 Pro   22H2;  Сборка ОС  19045.2006
+  steps-to-reproduce: |
+    1. Запускаем страницу магазина
+    2. В окно поиска вводим название товара Mornadi Velvet Bed    
+  expected-result: |
+    Товар найден
+  actual-result: |
+    Товар не найден
